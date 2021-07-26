@@ -15,7 +15,7 @@ import javax.persistence.ManyToMany;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 
 @Entity
-public class Produto implements Serializable{
+public class Produto implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
 	@Id
